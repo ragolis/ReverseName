@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Reverse Name</string>
+    <string name="DisplayActivity.Resource.1">Please enter your name</string>
+    <string name="Hint.1.DisplayView">Please enter a name</string>
+    <string name="Button.1.DisplayView">Proceed</string>
+</resources>
